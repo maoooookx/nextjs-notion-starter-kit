@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '落影残年',
-  domain: 'https://www.notion.so/0796fc2a227b4a01b8f674a741fe8ff5',
+  domain: 'shadow.mao',
   author: '开山',
 
   // open graph metadata (optional)
