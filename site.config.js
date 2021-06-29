@@ -49,5 +49,5 @@ module.exports = {
   // }
   pageUrlOverrides: null,
   
-  minTableOfContentsItems:3
+  minTableOfContentsItems: 3
 }
